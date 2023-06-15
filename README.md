@@ -11,3 +11,4 @@
 
 # Resources:-
 1.For snippet generation :- https://snippet-generator.app/
+2.How to add template in VS code :- https://medium.com/@sun_tech/how-to-create-code-snippets-templates-on-visual-studio-vs-code-bec96c3bc48e
