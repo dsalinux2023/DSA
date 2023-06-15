@@ -6,6 +6,7 @@
 
 **2.To link to the github:**
 > $ git config --global user.email c00387299@gmail.com
+
 > $ git config --global user.name dsalinux2023
 
 # Resources:-
