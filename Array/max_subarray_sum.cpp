@@ -1,6 +1,11 @@
 #include <iostream>
 using namespace std;
 
+/*
+Kadanes algo:
+local_sum= max(element, cummulative sum)
+global_sum= max(local sum, global sum)
+*/
 int max_subarray_sum(int* arr,int n){
     //local max ==> 0 
     //global max ==> -Infinity

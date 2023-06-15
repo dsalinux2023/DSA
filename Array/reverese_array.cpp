@@ -12,6 +12,7 @@ void reverse_array(int* arr,int n){
 
 int main(int argc, char const *argv[])
 {   
+    
     int n;
     std::cin >> n;
     int arr[n];
