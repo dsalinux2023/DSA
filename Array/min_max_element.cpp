@@ -10,6 +10,7 @@ Output:  Minimum element is: 3
 #include <iostream>
 
 /*
+Brute force approach
 best case => Ascending ordred array=>(n-1) comparisions
 worst case => Descending ordered array=> 2*(n-1) comparisions
 */
@@ -22,6 +23,8 @@ int* min_max_bf(int* arr,int n){
     static int minMax[2]={min,max};
     return minMax;
 }
+
+
 
 int main(int argc, char const *argv[])
 {   
