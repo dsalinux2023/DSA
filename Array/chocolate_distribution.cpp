@@ -10,7 +10,6 @@ int min_difference(int* arr,int n, int m){
     // for(int i=0;i<n;i++){
     //     std::cout << arr[i]<<" ";
     // }
-
     for(int i=0;i<=n-m;i++){
         min_diff=min(min_diff,arr[i+m-1]-arr[i]);
     }
